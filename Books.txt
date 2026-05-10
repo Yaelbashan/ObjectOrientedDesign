@@ -1,0 +1,1000 @@
+3	Harry Potter and the Sorcerer's Stone	J.K. Rowling	309
+2767052	The Hunger Games	Suzanne Collins	374
+41865	Twilight	Stephenie Meyer	498
+2657	To Kill a Mockingbird	Harper Lee	323
+4671	The Great Gatsby	F. Scott Fitzgerald	180
+11870085	The Fault in Our Stars	John Green	313
+5470	1984	George Orwell	328
+27362503	It Ends with Us	Colleen Hoover	386
+13335037	Divergent	Veronica Roth	487
+136251	Harry Potter and the Deathly Hallows	J.K. Rowling	759
+6148028	Catching Fire	Suzanne Collins	391
+5107	The Catcher in the Rye	J.D. Salinger	277
+32620332	The Seven Husbands of Evelyn Hugo	Taylor Jenkins Reid	389
+50659467	A Court of Thorns and Roses	Sarah J. Maas	419
+1	Harry Potter and the Half-Blood Prince	J.K. Rowling	652
+7260188	Mockingjay	Suzanne Collins	390
+59344312	Verity	Colleen Hoover	336
+36809135	Where the Crawdads Sing	Delia Owens	384
+77203	The Kite Runner	Khaled Hosseini	371
+960	Angels & Demons	Dan    Brown	736
+19288043	Gone Girl	Gillian Flynn	415
+28187	The Lightning Thief	Rick Riordan	377
+22557272	The Girl on the Train	Paula Hawkins	336
+7624	Lord of the Flies	William Golding	182
+4667024	The Help	Kathryn Stockett	464
+61431922	Fourth Wing	Rebecca Yarros	528
+40097951	The Silent Patient	Alex Michaelides	336
+50659468	A Court of Mist and Fury	Sarah J. Maas	626
+10818853	Fifty Shades of Grey	E.L. James	356
+19063	The Book Thief	Markus Zusak	592
+18135	Romeo and Juliet	William Shakespeare	281
+890	Of Mice and Men	John Steinbeck	107
+3636	The Giver	Lois Lowry	208
+13079982	Fahrenheit 451	Ray Bradbury	194
+13496	A Game of Thrones	George R.R. Martin	835
+968	The da Vinci Code	Dan    Brown	489
+12232938	The Lovely Bones	Alice Sebold	372
+50659472	A Court of Wings and Ruin	Sarah J. Maas	699
+60556912	The Housemaid	Freida McFadden	329
+52578297	The Midnight Library	Matt Haig	288
+17788401	Ugly Love	Colleen Hoover	330
+90202302	Iron Flame	Rebecca Yarros	623
+256683	City of Bones	Cassandra Clare	485
+7896527	Throne of Glass	Sarah J. Maas	406
+930	Memoirs of a Geisha	Arthur Golden	434
+5129	Brave New World	Aldous Huxley	268
+60393672	It Starts with Us	Colleen Hoover	323
+428263	Eclipse	Stephenie Meyer	629
+22628	The Perks of Being a Wallflower	Stephen Chbosky	213
+113436	Eragon	Christopher Paolini	503
+18143977	All the Light We Cannot See	Anthony Doerr	544
+50659471	A Court of Frost and Starlight	Sarah J. Maas	272
+18619684	The Time Traveler's Wife	Audrey Niffenegger	537
+1162543	Breaking Dawn	Stephenie Meyer	756
+19501	Eat, Pray, Love	Elizabeth Gilbert	368
+21853621	The Nightingale	Kristin Hannah	564
+13623848	The Song of Achilles	Madeline Miller	408
+15931	The Notebook	Nicholas Sparks	214
+17347634	Me Before You	Jojo Moyes	369
+18490	Frankenstein	Mary Wollstonecraft Shelley	288
+35133922	Educated	Tara Westover	352
+40597810	Daisy Jones & The Six	Taylor Jenkins Reid	368
+4214	Life of Pi	Yann Martel	460
+99561	Looking for Alaska	John Green	221
+41057294	Normal People	Sally Rooney	273
+10507293	The Selection	Kiera Cass	336
+43641	Water for Elephants	Sara Gruen	368
+128029	A Thousand Splendid Suns	Khaled Hosseini	372
+56732449	The Love Hypothesis	Ali Hazelwood	356
+11588	The Shining	Stephen        King	497
+58065033	Lessons in Chemistry	Bonnie Garmus	390
+6186357	The Maze Runner	James Dashner	384
+119322	The Golden Compass	Philip Pullman	399
+11735983	Insurgent	Veronica Roth	525
+26032825	The Cruel Prince	Holly Black	370
+40916679	A Good Girl's Guide to Murder	Holly  Jackson	433
+1618	The Curious Incident of the Dog in the Night-Time	Mark Haddon	226
+44767458	Dune	Frank Herbert	658
+16299	And Then There Were None	Agatha Christie	264
+231804	The Outsiders	S.E. Hinton	208
+17167166	Crown of Midnight	Sarah J. Maas	420
+30119	Where the Sidewalk Ends	Shel Silverstein	176
+58341222	Reminders of Him	Colleen Hoover	335
+52867387	Beach Read	Emily Henry	371
+4981	Slaughterhouse-Five	Kurt Vonnegut Jr.	275
+54985743	People We Meet on Vacation	Emily Henry	400
+55817097	Twisted Love	Ana Huang	360
+58690308	Book Lovers	Emily Henry	377
+31434883	Eleanor Oliphant Is Completely Fine	Gail Honeyman	336
+50623864	The Invisible Life of Addie LaRue	Victoria E. Schwab	448
+37435	The Secret Life of Bees	Sue Monk Kidd	302
+9460487	Miss Peregrine's Home for Peculiar Children	Ransom Riggs	352
+20613470	Heir of Fire	Sarah J. Maas	565
+11084145	Steve Jobs	Walter Isaacson	630
+38709	Holes	Louis Sachar	272
+7445	The Glass Castle	Jeannette Walls	288
+28257707	The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life	Mark Manson	212
+59364173	I'm Glad My Mom Died	Jennette McCurdy	320
+28186	The Sea of Monsters	Rick Riordan	279
+34273236	Little Fires Everywhere	Celeste Ng	338
+25111004	November 9	Colleen Hoover	310
+33574273	A Wrinkle in Time	Madeleine L'Engle	218
+18405	Gone with the Wind	Margaret Mitchell	1037
+9969571	Ready Player One	Ernest Cline	480
+2998	The Secret Garden	Frances Hodgson Burnett	331
+2165	The Old Man and the Sea	Ernest Hemingway	96
+61718053	Happy Place	Emily Henry	400
+16143347	We Were Liars	E. Lockhart	242
+35959740	Circe	Madeline Miller	393
+15745753	Eleanor & Park	Rainbow Rowell	328
+18007564	The Martian	Andy Weir	384
+830502	It	Stephen        King	1184
+58784475	Tomorrow, and Tomorrow, and Tomorrow	Gabrielle Zevin	401
+370493	The Giving Tree	Shel Silverstein	64
+127305853	The Women	Kristin Hannah	471
+55404546	Malibu Rising	Taylor Jenkins Reid	369
+62848145	The Housemaid's Secret	Freida McFadden	318
+18006496	Queen of Shadows	Sarah J. Maas	648
+52656911	The Guest List	Lucy Foley	319
+23692271	Sapiens: A Brief History of Humankind	Yuval Noah Harari	512
+2120932	The Battle of the Labyrinth	Rick Riordan	361
+18045891	Sharp Objects	Gillian Flynn	254
+11387515	Wonder	R.J. Palacio	315
+41150487	Red, White & Royal Blue	Casey McQuiston	448
+1845	Into the Wild	Jon Krakauer	207
+38746485	Becoming	Michelle Obama	426
+40121378	Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones	James Clear	319
+61767292	Icebreaker	Hannah  Grace	447
+62080187	Never Lie	Freida McFadden	286
+6900	Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson	Mitch Albom	210
+10964	Outlander	Diana Gabaldon	850
+6514	The Bell Jar	Sylvia Plath	294
+22328546	Red Queen	Victoria Aveyard	388
+18710190	Allegiant	Veronica Roth	531
+10429045	Shatter Me	Tahereh Mafi	338
+4556058	The Last Olympian	Rick Riordan	381
+38359036	The Tattooist of Auschwitz	Heather   Morris	272
+4865	How to Win Friends & Influence People	Dale Carnegie	288
+23437156	Six of Crows	Leigh Bardugo	480
+54981009	The Last Thing He Told Me	Laura Dave	307
+19486412	Big Little Lies	Liane Moriarty	458
+9361589	The Night Circus	Erin Morgenstern	506
+10194157	Shadow and Bone	Leigh Bardugo	358
+186074	The Name of the Wind	Patrick Rothfuss	662
+19543	Where the Wild Things Are	Maurice Sendak	38
+9418327	Bossypants	Tina Fey	283
+1656001	The Host	Stephenie Meyer	619
+28260587	Empire of Storms	Sarah J. Maas	689
+42201431	The Unhoneymooners	Christina Lauren	432
+34912895	The Great Alone	Kristin Hannah	435
+29844228	Thirteen Reasons Why	Jay Asher	352
+15749186	To All the Boys I've Loved Before	Jenny Han	355
+3777732	City of Glass	Cassandra Clare	541
+17333223	The Goldfinch	Donna Tartt	771
+60060431	Things We Never Got Over	Lucy Score	572
+10572	A Clash of Kings	George R.R. Martin	1009
+18512	The Return of the King	J.R.R. Tolkien	404
+58679358	One of Us Is Lying	Karen M. McManus	416
+51901147	The Ballad of Songbirds and Snakes	Suzanne Collins	541
+6288	The Road	Cormac McCarthy	241
+36381037	Cinder	Marissa Meyer	400
+8664353	Unbroken: A World War II Story of Survival, Resilience and Redemption	Laura Hillenbrand	475
+1582996	City of Ashes	Cassandra Clare	453
+32075671	The Hate U Give	Angie Thomas	454
+30165203	American Gods	Neil Gaiman	635
+26032887	The Wicked King	Holly Black	336
+18243700	The Assassin's Blade	Sarah J. Maas	448
+44778083	House of Earth and Blood	Sarah J. Maas	803
+18114322	The Grapes of Wrath	John Steinbeck	496
+52439531	The Inheritance Games	Jennifer Lynn Barnes	386
+11857408	Fifty Shades Darker	E.L. James	532
+53450790	The Perfect Marriage	Jeneva Rose	337
+58733693	Remarkably Bright Creatures	Shelby Van Pelt	368
+5821978	The Summer I Turned Pretty	Jenny Han	276
+4374400	If I Stay	Gayle Forman	208
+21787	The Princess Bride	William Goldman	429
+56653002	Twisted Games	Ana Huang	456
+24920901	The Deal	Elle Kennedy	342
+5139	The Devil Wears Prada	Lauren Weisberger	384
+29044	The Secret History	Donna Tartt	559
+39999	The Boy in the Striped Pajamas	John Boyne	224
+7736182	The Lost Hero	Rick Riordan	576
+62334530	None of This Is True	Lisa Jewell	390
+13536860	Fifty Shades Freed	E.L. James	579
+33590260	Kingdom of Ash	Sarah J. Maas	980
+1202	Freakonomics: A Rogue Economist Explores the Hidden Side of Everything	Steven D. Levitt	268
+35297426	Then She Was Gone	Lisa Jewell	359
+26032912	The Queen of Nothing	Holly Black	321
+76714487	Tower of Dawn	Sarah J. Maas	663
+168668	Catch-22	Joseph Heller	453
+53138081	The Four Winds	Kristin Hannah	464
+68428	Mistborn: The Final Empire	Brandon Sanderson	541
+7171637	Clockwork Angel	Cassandra Clare	479
+40389527	The Woman in the Window	A.J. Finn	455
+12262741	Wild: From Lost to Found on the Pacific Crest Trail	Cheryl Strayed	336
+2612	The Tipping Point: How Little Things Can Make a Big Difference	Malcolm Gladwell	301
+16248068	The Elite	Kiera Cass	336
+3228917	Outliers: The Story of Success	Malcolm Gladwell	309
+62047984	Yellowface	R.F. Kuang	319
+40495957	Heartstopper: Volume One	Alice Oseman	288
+3473	A Walk to Remember	Nicholas Sparks	240
+33385229	They Both Die at the End	Adam Silvera	389
+22822858	A Little Life	Hanya Yanagihara	720
+45047384	The House in the Cerulean Sea	T.J. Klune	394
+61149872	The Inmate	Freida McFadden	388
+62291	A Storm of Swords	George R.R. Martin	1177
+7937843	Room	Emma Donoghue	321
+23772	Green Eggs and Ham	Dr. Seuss	64
+51791252	The Vanishing Half	Brit Bennett	343
+32542	A Time to Kill	John Grisham	738
+7735333	Matched	Ally Condie	369
+5886881	Dark Places	Gillian Flynn	424
+10614	Misery	Stephen        King	370
+12067	Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch	Terry Pratchett	491
+5043	The Pillars of the Earth	Ken Follett	976
+10592	Carrie	Stephen        King	272
+6334	Never Let Me Go	Kazuo Ishiguro	288
+25883848	The Hating Game	Sally  Thorne	387
+9416	Confessions of a Shopaholic	Sophie Kinsella	368
+2728527	The Guernsey Literary and Potato Peel Pie Society	Mary Ann Shaffer	277
+54493401	Project Hail Mary	Andy Weir	476
+6493208	The Immortal Life of Henrietta Lacks	Rebecca Skloot	370
+195820807	Just for the Summer	Abby Jimenez	432
+7244	The Poisonwood Bible	Barbara Kingsolver	546
+3431	The Five People You Meet in Heaven	Mitch Albom	196
+13497	A Feast for Crows	George R.R. Martin	1060
+16068905	Fangirl	Rainbow Rowell	483
+54189398	The Spanish Love Deception	Elena  Armas	487
+23513349	Milk and honey	Rupi Kaur	204
+29780253	Born a Crime: Stories From a South African Childhood	Trevor Noah	289
+2865	Girl with a Pearl Earring	Tracy Chevalier	233
+195967140	The Teacher	Freida McFadden	379
+58763686	Haunting Adeline	H.D. Carlton	583
+52831200	From Blood and Ash	Jennifer L. Armentrout	622
+18373	Flowers for Algernon	Daniel Keyes	311
+27883214	Caraval	Stephanie Garber	407
+227463	A Clockwork Orange	Anthony Burgess	192
+18635016	The One	Kiera Cass	323
+389627	Diary of a Wimpy Kid	Jeff Kinney	226
+36206591	Love and Other Words	Christina Lauren	432
+6339664	Hush, Hush	Becca Fitzpatrick	391
+11486	The Color Purple	Alice Walker	295
+452306	The Sisterhood of the Traveling Pants	Ann Brashares	294
+22299763	Crooked Kingdom	Leigh Bardugo	561
+10664113	A Dance with Dragons	George R.R. Martin	1125
+44582454	Regretting You	Colleen Hoover	363
+4137	Me Talk Pretty One Day	David Sedaris	272
+33	The Lord of the Rings	J.R.R. Tolkien	1216
+17802724	The Husband's Secret	Liane Moriarty	396
+168642	In Cold Blood	Truman Capote	343
+11505797	Beautiful Disaster	Jamie McGuire	432
+29437949	Behind Closed Doors	B.A. Paris	293
+7763	The Joy Luck Club	Amy Tan	288
+24770	Uglies	Scott Westerfeld	425
+28187230	The Woman in Cabin 10	Ruth Ware	341
+51335759	Good Girl, Bad Blood	Holly  Jackson	413
+853510	Murder on the Orient Express	Agatha Christie	274
+40132775	House of Sky and Breath	Sarah J. Maas	805
+976	Deception Point	Dan    Brown	556
+56688531	Twisted Hate	Ana Huang	522
+13104080	Unravel Me	Tahereh Mafi	480
+17899948	Rebecca	Daphne du Maurier	449
+69571	Rich Dad, Poor Dad	Robert T. Kiyosaki	195
+32148570	Before We Were Yours	Lisa Wingate	342
+1812457	The Shack	William Paul Young	248
+58014893	Every Summer After	Carley Fortune	320
+38926487	All Your Perfects	Colleen Hoover	305
+345627	Vampire Academy	Richelle Mead	332
+28815474	The Couple Next Door	Shari Lapena	308
+61918816	Yours Truly	Abby Jimenez	416
+164444179	First Lie Wins	Ashley Elston	340
+14061955	Siege and Storm	Leigh Bardugo	435
+55659629	It Happened One Summer	Tessa Bailey	397
+60194162	Demon Copperhead	Barbara Kingsolver	560
+33124137	Pet Sematary	Stephen        King	580
+55196813	The Maid	Nita Prose	304
+11125	Digital Fortress	Dan    Brown	510
+2187	Middlesex	Jeffrey Eugenides	529
+58468990	The Paris Apartment	Lucy Foley	360
+12127750	The Mark of Athena	Rick Riordan	586
+58684524	Part of Your World	Abby Jimenez	389
+54737068	Local Woman Missing	Mary Kubica	356
+15783514	The Ocean at the End of the Lane	Neil Gaiman	181
+110391	The Duke and I	Julia Quinn	384
+15717943	Hopeless	Colleen Hoover	410
+43615	The Gunslinger	Stephen        King	231
+45046527	American Dirt	Jeanine Cummins	459
+9520360	The Son of Neptune	Rick Riordan	521
+60784546	Divine Rivals	Rebecca   Ross	357
+27833670	Dark Matter	Blake Crouch	342
+46000520	The Thursday Murder Club	Richard Osman	382
+60435878	Carrie Soto Is Back	Taylor Jenkins Reid	384
+27189194	One True Loves	Taylor Jenkins Reid	352
+6411961	The Lost Symbol	Dan    Brown	509
+51007311	Heart Bones	Colleen Hoover	338
+5413	'Salem's Lot	Stephen        King	594
+43763	Interview with the Vampire	Anne Rice	346
+6752378	City of Fallen Angels	Cassandra Clare	425
+34066798	A Gentleman in Moscow	Amor Towles	462
+5759	Fight Club	Chuck Palahniuk	218
+24445517	Maybe Someday	Colleen Hoover	385
+7631105	The Scorch Trials	James Dashner	362
+4989	The Red Tent	Anita Diamant	324
+439288	Speak	Laurie Halse Anderson	202
+32822135	Archer's Voice	Mia Sheridan	377
+35504431	Turtles All the Way Down	John Green	290
+55710822	Better Than the Movies	Lynn Painter	356
+74045390	The Fine Print	Lauren Asher	448
+6304335	Beautiful Creatures	Kami Garcia	563
+5526	Dear John	Nicholas Sparks	276
+16160797	The Cuckoo's Calling	Robert Galbraith	456
+15839976	Red Rising	Pierce Brown	382
+60714999	The Serpent and the Wings of Night	Carissa Broadbent	504
+6584188	It's Not Summer Without You	Jenny Han	275
+18460392	All the Bright Places	Jennifer Niven	388
+6487308	Fallen	Lauren Kate	464
+10441	The Memory Keeper's Daughter	Kim Edwards	401
+13188676	Ignite Me	Tahereh Mafi	408
+7235533	The Way of Kings	Brandon Sanderson	1007
+47281	Number the Stars	Lois Lowry	137
+42156	Something Borrowed	Emily Giffin	336
+10644930	11/22/63	Stephen        King	849
+1215032	The Wise Man's Fear	Patrick Rothfuss	994
+25574782	Pretty Girls	Karin Slaughter	432
+56269064	Rock Paper Scissors	Alice Feeney	294
+18693763	Everything I Never Told You	Celeste Ng	297
+60217302	Twisted Lies	Ana Huang	530
+13526165	Where'd You Go, Bernadette	Maria Semple	330
+4406	East of Eden	John Steinbeck	601
+34324605	Confess	Colleen Hoover	320
+68429	The Well of Ascension	Brandon Sanderson	590
+16181775	The Rosie Project	Graeme Simsion	292
+50093704	In Five Years	Rebecca Serle	272
+20170404	Station Eleven	Emily St. John Mandel	333
+32051912	The Alice Network	Kate Quinn	503
+17212231	Inferno	Dan    Brown	463
+2839	Bridge to Terabithia	Katherine Paterson	128
+29579	Foundation	Isaac Asimov	244
+10025305	Clockwork Prince	Cassandra Clare	498
+23807	The Silence of the Lambs	Thomas  Harris	421
+6853	One for the Money	Janet Evanovich	320
+233093	The Cat in the Hat	Dr. Seuss	61
+14061957	Ruin and Rising	Leigh Bardugo	350
+228665	The Eye of the World	Robert Jordan	800
+6400090	The Last Song	Nicholas Sparks	390
+137791	Divine Secrets of the Ya-Ya Sisterhood	Rebecca Wells	383
+52089753	Layla	Colleen Hoover	305
+61326735	Love, Theoretically	Ali Hazelwood	389
+34051011	Pachinko	Min Jin Lee	496
+13214	I Know Why the Caged Bird Sings	Maya Angelou	289
+59571699	Love on the Brain	Ali Hazelwood	368
+43923951	Such a Fun Age	Kiley Reid	310
+32187419	Conversations with Friends	Sally Rooney	304
+249747	Artemis Fowl	Eoin Colfer	396
+8755776	City of Lost Souls	Cassandra Clare	535
+11468377	Thinking, Fast and Slow	Daniel Kahneman	499
+301082	Dead Until Dark	Charlaine Harris	292
+50531218	The Hawthorne Legacy	Jennifer Lynn Barnes	380
+14497	Neverwhere	Neil Gaiman	370
+52857700	House of Flame and Shadow	Sarah J. Maas	835
+9275658	Legend	Marie Lu	305
+8908	World War Z: An Oral History of the Zombie War	Max Brooks	342
+43307358	Heartstopper: Volume Two	Alice Oseman	320
+181344829	Bride	Ali Hazelwood	410
+6867	Atonement	Ian McEwan	351
+20910157	Yes Please	Amy Poehler	329
+20448515	Bared to You	Sylvia Day	352
+12609433	The Power of Habit: Why We Do What We Do in Life and Business	Charles Duhigg	375
+49750	An Abundance of Katherines	John Green	229
+1898	Into Thin Air: A Personal Account of the Mt. Everest Disaster	Jon Krakauer	368
+3153910	The Art of Racing in the Rain	Garth Stein	336
+8680278	We'll Always Have Summer	Jenny Han	291
+4900	Heart of Darkness	Joseph Conrad	188
+61229235	King of Wrath	Ana Huang	398
+8667848	A Discovery of Witches	Deborah Harkness	592
+63133205	The Woman in Me	Britney Spears	288
+4948	The Very Hungry Caterpillar	Eric Carle	26
+59912428	Mad Honey	Jodi Picoult	464
+54814676	Crying in H Mart	Michelle Zauner	243
+57693172	A Flicker in the Dark	Stacy Willingham	357
+55987278	Once Upon a Broken Heart	Stephanie Garber	408
+16085481	Crazy Rich Asians	Kevin Kwan	403
+2767793	The Hero of Ages	Brandon Sanderson	572
+54319549	A Kingdom of Flesh and Fire	Jennifer L. Armentrout	637
+60755618	Flawless	Elsie Silver	424
+30183	Marked	P.C. Cast	306
+52529	The Secret	Rhonda Byrne	199
+15835031	If He Had Been With Me	Laura Nowlin	336
+44318414	The Dutch House	Ann Patchett	337
+43822820	The Family Upstairs	Lisa Jewell	352
+59050133	Hunting Adeline	H.D. Carlton	702
+10335308	Is Everyone Hanging Out Without Me?	Mindy Kaling	222
+37470	The Other Boleyn Girl	Philippa Gregory	661
+44279110	My Year of Rest and Relaxation	Ottessa Moshfegh	289
+56905097	As Good As Dead	Holly  Jackson	500
+6469165	What Alice Forgot	Liane Moriarty	487
+57795665	The Locked Door	Freida McFadden	313
+76620	Watership Down	Richard  Adams	478
+14891	A Tree Grows in Brooklyn	Betty  Smith	496
+6068551	Shiver	Maggie Stiefvater	392
+8130077	The Screwtape Letters	C.S. Lewis	222
+556602	Sarah's Key	Tatiana de Rosnay	294
+127555313	Too Late	Colleen Hoover	370
+196864520	Butcher & Blackbird	Brynne Weaver	360
+7864437	The Death Cure	James Dashner	325
+43449920	Heartstopper: Volume Three	Alice Oseman	384
+27161156	Hillbilly Elegy: A Memoir of a Family and Culture in Crisis	J.D. Vance	264
+36199084	The Kiss Quotient	Helen Hoang	323
+41021967	Punk 57	Penelope Douglas	343
+13145	Along Came a Spider	James  Patterson	449
+102868	A Study in Scarlet	Arthur Conan Doyle	123
+45978	Eldest	Christopher Paolini	704
+62022434	Things We Hide from the Light	Lucy Score	594
+43925876	The Giver of Stars	Jojo Moyes	390
+11614718	Delirium	Lauren Oliver	441
+3236307	Graceling	Kristin Cashore	471
+16343	The Mysterious Affair at Styles	Agatha Christie	121
+3876	The Sun Also Rises	Ernest Hemingway	189
+62703226	The Only One Left	Riley Sager	383
+16793	Stardust	Neil Gaiman	248
+16101128	The 5th Wave	Rick Yancey	457
+61771675	Hello Beautiful	Ann Napolitano	416
+58340706	One Dark Window	Rachel Gillig	399
+13158800	The Light Between Oceans	M.L. Stedman	362
+6149	Beloved	Toni Morrison	325
+58724923	Hidden Pictures	Jason Rekulak	372
+30118	A Light in the Attic	Shel Silverstein	176
+121749	Prince Caspian	C.S. Lewis	240
+18335634	Clockwork Princess	Cassandra Clare	567
+33724	Can You Keep a Secret?	Sophie Kinsella	374
+23878688	The 5 Love Languages: The Secret to Love that Lasts	Gary Chapman	232
+6936382	Anna and the French Kiss	Stephanie Perkins	372
+3869	A Brief History of Time	Stephen Hawking	226
+8520610	Quiet: The Power of Introverts in a World That Can't Stop Talking	Susan Cain	333
+39280445	Nine Perfect Strangers	Liane Moriarty	453
+12127810	The House of Hades	Rick Riordan	597
+19547856	Simon vs. the Homo Sapiens Agenda	Becky Albertalli	320
+56597885	Beautiful World, Where Are You	Sally Rooney	356
+861326	The Viscount Who Loved Me	Julia Quinn	480
+5359	The Client	John Grisham	483
+15818107	Orphan Train	Christina Baker Kline	278
+53288434	The Lost Apothecary	Sarah Penner	301
+58545703	Hooked	Emily McIntire	312
+123423832	The Coworker	Freida McFadden	362
+60748	A Child Called "It"	Dave Pelzer	184
+119324	The Subtle Knife	Philip Pullman	326
+62926938	The Seven Year Slip	Ashley Poston	336
+17250	The Crucible	Arthur Miller	143
+13206760	Scarlet	Marissa Meyer	454
+1472878	Firefly Lane	Kristin Hannah	479
+36337550	The 7 1/2 Deaths of Evelyn Hardcastle	Stuart Turton	432
+11138	Mere Christianity	C.S. Lewis	191
+222078	The Story of Art	E.H. Gombrich	688
+3609760	Twilight: The Complete Illustrated Movie Companion	Mark Cotta Vaz	144
+32499	The Pelican Brief	John Grisham	400
+1842	Guns, Germs, and Steel: The Fates of Human Societies	Jared Diamond	498
+7869	The Bourne Identity	Robert Ludlum	566
+46041465	Everything I Know About Love	Dolly Alderton	368
+61373532	Heartless	Elsie Silver	476
+17332218	Words of Radiance	Brandon Sanderson	1088
+113946	How the Grinch Stole Christmas!	Dr. Seuss	64
+36478784	The Flatshare	Beth O'Leary	394
+50	Hatchet	Gary Paulsen	208
+70401	On the Road	Jack Kerouac	307
+34043643	The Last Mrs. Parrish	Liv Constantine	560
+9791	A Walk in the Woods: Rediscovering America on the Appalachian Trail	Bill Bryson	397
+4588	Extremely Loud & Incredibly Close	Jonathan Safran Foer	326
+63241104	Tom Lake	Ann Patchett	309
+10365	Where the Red Fern Grows	Wilson Rawls	272
+25541028	Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future	Ashlee Vance	392
+30555488	The Underground Railroad	Colson Whitehead	320
+34189556	The Wife Between Us	Greer Hendricks	432
+56060300	Heartstopper: Volume Four	Alice Oseman	384
+30333938	Slammed	Colleen Hoover	354
+6708	The Power of Now: A Guide to Spiritual Enlightenment	Eckhart Tolle	229
+24337	Ella Enchanted	Gail Carson Levine	240
+56143578	Apples Never Fall	Liane Moriarty	467
+41021501	Small Great Things	Jodi Picoult	510
+29496076	Killers of the Flower Moon: The Osage Murders and the Birth of the FBI	David Grann	359
+7090447	The Red Pyramid	Rick Riordan	528
+58283080	Hook, Line, and Sinker	Tessa Bailey	353
+3591262	Cutting for Stone	Abraham   Verghese	560
+59947696	Wrong Place Wrong Time	Gillian McAllister	416
+52838315	Greenlights	Matthew McConaughey	289
+2784	Ways of Seeing	John Berger	176
+33151805	Into the Water	Paula Hawkins	386
+34497	The Color of Magic	Terry Pratchett	228
+21	A Short History of Nearly Everything	Bill Bryson	544
+53152636	Mexican Gothic	Silvia Moreno-Garcia	320
+6567017	Will Grayson, Will Grayson	John Green	320
+58658940	The Final Gambit	Jennifer Lynn Barnes	400
+20698530	P.S. I Still Love You	Jenny Han	337
+22055262	A Darker Shade of Magic	Victoria E. Schwab	400
+101145836	Wildfire	Hannah  Grace	387
+8755785	City of Heavenly Fire	Cassandra Clare	725
+27774596	After You	Jojo Moyes	352
+110384	Romancing Mister Bridgerton	Julia Quinn	370
+123193218	Ward D	Freida McFadden	348
+45300567	The Maidens	Alex Michaelides	337
+23174274	Glass Sword	Victoria Aveyard	444
+2248573	Brisingr	Christopher Paolini	748
+14866	Nineteen Minutes	Jodi Picoult	440
+662	Atlas Shrugged	Ayn Rand	1168
+52476830	The Push	Ashley Audrain	307
+55215339	A Touch of Darkness	Scarlett St.  Clair	379
+242006	Running with Scissors	Augusten Burroughs	336
+37781	Things Fall Apart	Chinua Achebe	215
+54120408	Klara and the Sun	Kazuo Ishiguro	340
+7812659	Safe Haven	Nicholas Sparks	340
+92303	The Importance of Being Earnest	Oscar Wilde	89
+6280118	One Day	David Nicholls	435
+13206828	Cress	Marissa Meyer	552
+16115612	And the Mountains Echoed	Khaled Hosseini	404
+366522	P.S. I Love You	Cecelia Ahern	501
+17675462	The Raven Boys	Maggie Stiefvater	409
+44890081	My Dark Vanessa	Kate Elizabeth Russell	373
+22918050	The Heir	Kiera Cass	342
+228333	The Nanny Diaries	Emma McLaughlin	306
+36329818	Legendary	Stephanie Garber	451
+10956	The Virgin Suicides	Jeffrey Eugenides	250
+42975172	The Testaments	Margaret Atwood	422
+35068705	The Poppy War	R.F. Kuang	545
+52616342	The Perfect Son	Freida McFadden	373
+27834600	In a Dark, Dark Wood	Ruth Ware	352
+19691	The Hunt for Red October	Tom Clancy	432
+59808071	The Ballad of Never After	Stephanie Garber	416
+1103	Snow Flower and the Secret Fan	Lisa See	269
+50202953	Piranesi	Susanna Clarke	272
+8490112	Daughter of Smoke & Bone	Laini Taylor	418
+27071490	Homegoing	Yaa Gyasi	305
+9408584	An Offer From a Gentleman	Julia Quinn	390
+84119	The Horse and His Boy	C.S. Lewis	224
+62335396	The Ashes & the Star-Cursed King	Carissa Broadbent	626
+28954189	Scythe	Neal Shusterman	435
+33590210	An American Marriage	Tayari Jones	308
+37570546	Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed	Lori Gottlieb	415
+58909880	The House Across the Lake	Riley Sager	369
+2802316	Shadow Kiss	Richelle Mead	443
+5364	Dragonfly in Amber	Diana Gabaldon	947
+18122	The Amber Spyglass	Philip Pullman	465
+18050143	Zero to One: Notes on Startups, or How to Build the Future	Peter Thiel	195
+37415	Their Eyes Were Watching God	Zora Neale Hurston	238
+116536542	Things We Left Behind	Lucy Score	698
+43263680	Ninth House	Leigh Bardugo	461
+18705209	The Blood of Olympus	Rick Riordan	516
+2203	John Adams	David McCullough	751
+55994372	The Paper Palace	Miranda Cowley Heller	400
+3063499	The Lucky One	Nicholas Sparks	326
+18966819	Golden Son	Pierce Brown	466
+627206	The New Drawing on the Right Side of the Brain	Betty Edwards	291
+47212	Storm Front	Jim  Butcher	372
+32487617	Beneath a Scarlet Sky	Mark T. Sullivan	509
+57945316	Babel	R.F. Kuang	544
+77197	Assassin's Apprentice	Robin Hobb	435
+2282133	Frostbite	Richelle Mead	327
+6668467	Winter Garden	Kristin Hannah	394
+41804	I, Robot	Isaac Asimov	224
+30186948	Think and Grow Rich	Napoleon Hill	233
+30319086	If We Were Villains	M.L. Rio	354
+35606560	The Sun and Her Flowers	Rupi Kaur	256
+32234	White Oleander	Janet Fitch	446
+13596809	Reflected in You	Sylvia Day	338
+7784	The Lorax	Dr. Seuss	72
+22557520	After	Anna Todd	582
+41880609	On Earth We're Briefly Gorgeous	Ocean Vuong	246
+15196	Maus I: A Survivor's Tale: My Father Bleeds History	Art Spiegelman	159
+3412	The Thorn Birds	Colleen McCullough	692
+49436	Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time	Greg Mortenson	349
+12287209	Wool - Holston	Hugh Howey	56
+13453029	Wool Omnibus	Hugh Howey	509
+28877	Red Dragon	Thomas  Harris	454
+9736930	Before I Go to Sleep	S.J. Watson	359
+11422	Redeeming Love	Francine  Rivers	479
+18775247	Mr. Mercedes	Stephen        King	437
+2153405	Still Alice	Lisa Genova	292
+25489625	Between the World and Me	Ta-Nehisi Coates	152
+33313	Kitchen Confidential: Adventures in the Culinary Underbelly	Anthony Bourdain	312
+10127019	The Lean Startup	Eric Ries	299
+127280062	Ruthless Vows	Rebecca   Ross	420
+36124936	The Outsider	Stephen        King	561
+13137	1st to Die	James  Patterson	424
+63910262	Two Twisted Crowns	Rachel Gillig	437
+20820994	I'll Give You the Sun	Jandy Nelson	371
+28763485	The Sun Is Also a Star	Nicola Yoon	344
+22328	Neuromancer	William Gibson	271
+7747374	I Am Number Four	Pittacus Lore	440
+16158542	The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics	Daniel James Brown	404
+13148	Kiss the Girls	James  Patterson	481
+112975658	The Frozen River	Ariel Lawhon	432
+42899	Dark Lover	J.R. Ward	393
+11566	The Green Mile	Stephen        King	592
+54197718	One by One	Freida McFadden	295
+32307358	Origin	Dan    Brown	482
+233818	Island of the Blue Dolphins	Scott O'Dell	184
+28676	American Psycho	Bret Easton Ellis	399
+38255337	One Day in December	Josie Silver	393
+6482837	Before I Fall	Lauren Oliver	470
+127279000	Listen for the Lie	Amy Tintera	352
+13642	A Wizard of Earthsea	Ursula K. Le Guin	183
+27220736	Shoe Dog: A Memoir by the Creator of Nike	Phil Knight	400
+233649	The Great Hunt	Robert Jordan	705
+10799	A Farewell to Arms	Ernest Hemingway	293
+78129	Killing Floor	Lee Child	474
+7315573	Fall of Giants	Ken Follett	985
+41945163	The Friend Zone	Abby Jimenez	372
+18293427	The Storied Life of A.J. Fikry	Gabrielle Zevin	260
+28921	The Remains of the Day	Kazuo Ishiguro	258
+84943172	The Right Move	Liz Tomforde	499
+58724801	The Bodyguard	Katherine Center	302
+37903770	Norse Mythology	Neil Gaiman	301
+52735921	Kingdom of the Wicked	Kerri Maniscalco	372
+37642030	The Hunting Party	Lucy Foley	406
+13497818	The Casual Vacancy	J.K. Rowling	503
+23492661	Maybe in Another Life	Taylor Jenkins Reid	342
+133518	The Things They Carried	Tim O'Brien	246
+7791997	Crescendo	Becca Fitzpatrick	427
+22232	Stargirl	Jerry Spinelli	186
+7933292	Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back	Todd Burpo	162
+40024139	Serpent & Dove	Shelby Mahurin	513
+4473	A Prayer for Owen Meany	John Irving	637
+6443834	1Q84 Book 1	Haruki Murakami	554
+99300	The Yellow Wallpaper and Other Stories	Charlotte Perkins Gilman	129
+480479	Under the Tuscan Sun: At Home in Italy	Frances Mayes	304
+70535	2001: A Space Odyssey	Arthur C. Clarke	297
+32768522	Carry On	Rainbow Rowell	522
+25893693	Lilac Girls	Martha Hall Kelly	487
+27774758	An Ember in the Ashes	Sabaa Tahir	446
+53914938	The Rose Code	Kate Quinn	624
+12220	A Streetcar Named Desire	Tennessee Williams	107
+18079776	The Invention of Wings	Sue Monk Kidd	384
+38819868	My Sister, the Serial Killer	Oyinkan Braithwaite	226
+43848929	Talking to Strangers: What We Should Know About the People We Don't Know	Malcolm Gladwell	388
+341879	Just Kids	Patti Smith	304
+46261182	The Awakening	Caroline Peckham	436
+10987	Voyager	Diana Gabaldon	870
+13623150	Destroy Me	Tahereh Mafi	111
+5996153	Blood Promise	Richelle Mead	503
+58662236	Small Things Like These	Claire Keegan	128
+29588376	The Lies of Locke Lamora	Scott Lynch	752
+40440	The Thirteenth Tale	Diane Setterfield	406
+10916	The Pact	Jodi Picoult	512
+368593	The 4-Hour Workweek	Timothy Ferriss	308
+53137938	The Things We Leave Unfinished	Rebecca Yarros	400
+68427	Elantris	Brandon Sanderson	638
+62816044	A Curse for True Love	Stephanie Garber	386
+227711	I Know This Much Is True	Wally Lamb	897
+9375	Fried Green Tomatoes at the Whistle Stop Cafe	Fannie Flagg	416
+13099738	Steal Like an Artist: 10 Things Nobody Told You About Being Creative	Austin Kleon	160
+40381392	Finale	Stephanie Garber	478
+3590	The Adventures of Sherlock Holmes	Arthur Conan Doyle	389
+2547	The Prophet	Kahlil Gibran	127
+22738563	We Should All Be Feminists	Chimamanda Ngozi Adichie	52
+60654349	Weyward	Emilia Hart	329
+6320534	Under the Dome	Stephen        King	1074
+43798285	The Institute	Stephen        King	561
+16328	The Murder of Roger Ackroyd	Agatha Christie	288
+9777	The God of Small Things	Arundhati Roy	321
+34002132	Oathbringer	Brandon Sanderson	1248
+58884736	The Measure	Nikki Erlick	353
+42080142	The Turn of the Key	Ruth Ware	337
+14748	Good in Bed	Jennifer Weiner	376
+34897	The Dragon Reborn	Robert Jordan	624
+24192	The Runaway Jury	John Grisham	464
+35510008	This is Going to Hurt: Secret Diaries of a Junior Doctor	Adam Kay	285
+58100280	The Cheat Sheet	Sarah       Adams	306
+60177373	Fairy Tale	Stephen        King	607
+3367956	Hotel on the Corner of Bitter and Sweet	Jamie Ford	290
+42135029	City of Girls	Elizabeth Gilbert	470
+32758901	All Systems Red	Martha Wells	144
+26247008	Truly Madly Guilty	Liane Moriarty	432
+10603	Cujo	Stephen        King	432
+19161852	The Fifth Season	N.K. Jemisin	468
+46170	For Whom the Bell Tolls	Ernest Hemingway	471
+5826	Bel Canto	Ann Patchett	318
+11367726	Defending Jacob	William Landay	421
+33722	The Undomestic Goddess	Sophie Kinsella	404
+8695	The Restaurant at the End of the Universe	Douglas Adams	250
+10569	On Writing: A Memoir of the Craft	Stephen        King	320
+33280872	Without Merit	Colleen Hoover	386
+1923820	The Holy Bible: King James Version	Anonymous	1590
+18966806	Morning Star	Pierce Brown	525
+6479259	Spirit Bound	Richelle Mead	489
+60683957	Check & Mate	Ali Hazelwood	347
+43890641	Hamnet	Maggie O'Farrell	372
+26074181	The Crown	Kiera Cass	278
+8492825	Where She Went	Gayle Forman	264
+8683812	The Paris Wife	Paula McLain	314
+34928122	Artemis	Andy Weir	305
+61797464	Meet Me at the Lake	Carley Fortune	336
+13206900	Winter	Marissa Meyer	827
+45299992	If You Tell: A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood	Gregg Olsen	431
+53137893	The Wife Upstairs	Rachel Hawkins	290
+60142750	All Good People Here	Ashley Flowers	312
+7664041	Inheritance	Christopher Paolini	849
+8855321	Leviathan Wakes	James S.A. Corey	592
+862041	Harry Potter Series Box Set	J.K. Rowling	4100
+6393631	Smile	Raina Telgemeier	214
+55457493	The Man Who Died Twice	Richard Osman	422
+3975774	Evermore	Alyson Noel	301
+6527740	Last Sacrifice	Richelle Mead	594
+58941251	The Ritual	Shantel Tessier	606
+84369	The Last Battle	C.S. Lewis	288
+307791	The City of Ember	Jeanne DuPrau	270
+57109107	The Lincoln Highway	Amor Towles	576
+60018635	The Very Secret Society of Irregular Witches	Sangu Mandanna	318
+43352954	This Is How You Lose the Time War	Amal El-Mohtar	209
+40874032	Vicious	Victoria E. Schwab	402
+53205888	Under the Whispering Door	T.J. Klune	376
+55922299	The Night She Disappeared	Lisa Jewell	416
+6837103	The Kitchen House	Kathleen Grissom	369
+12578077	Obsidian	Jennifer L. Armentrout	335
+53287484	Midnight Sun	Stephenie Meyer	662
+29367958	The Wall of Winnipeg and Me	Mariana Zapata	475
+10637766	Silence	Becca Fitzpatrick	440
+830	Snow Crash	Neal Stephenson	438
+23919	The Complete Stories and Poems	Edgar Allan Poe	821
+54659771	Neon Gods	Katee Robert	380
+131359	Death on the Nile	Agatha Christie	352
+84981	Tuck Everlasting	Natalie Babbitt	148
+386187	Midnight in the Garden of Good and Evil	John Berendt	386
+1317181	Harry Potter and the Order of the Phoenix	J.K. Rowling	412
+41721428	Can't Hurt Me: Master Your Mind and Defy the Odds	David Goggins	366
+56495	The Purpose Driven Life: What on Earth Am I Here for?	Rick Warren	336
+10176	Dress Your Family in Corduroy and Denim	David Sedaris	257
+32326398	Sometimes I Lie	Alice Feeney	387
+24817626	Go Set a Watchman	Harper Lee	278
+61242426	Legends & Lattes	Travis Baldree	296
+16130549	Doctor Sleep	Stephen        King	531
+59227941	The Hotel Nantucket	Elin Hilderbrand	416
+944073	The Blade Itself	Joe Abercrombie	515
+42270835	The Nickel Boys	Colson Whitehead	213
+92057	The Autobiography of Malcolm X	Malcolm X	466
+30226723	King's Cage	Victoria Aveyard	520
+62873996	The Five-Star Weekend	Elin Hilderbrand	384
+11337	The Bluest Eye	Toni Morrison	216
+65678550	The Heaven & Earth Grocery Store	James   McBride	385
+42046112	Recursion	Blake Crouch	326
+77566	Hyperion	Dan Simmons	500
+110386	To Sir Phillip, With Love	Julia Quinn	372
+46756	Oryx and Crake	Margaret Atwood	389
+8949352	Night Road	Kristin Hannah	385
+5094	The Drawing of the Three	Stephen        King	463
+59345249	The It Girl	Ruth Ware	423
+7815	The Year of Magical Thinking	Joan Didion	227
+19390926	Point of Retreat	Colleen Hoover	322
+33917	The Namesake	Jhumpa Lahiri	304
+58438593	The Soulmate Equation	Christina Lauren	360
+14743	The God Delusion	Richard Dawkins	374
+15843166	You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life	Jen Sincero	254
+1295	The Clan of the Cave Bear	Jean M. Auel	512
+676924	Betrayed	P.C. Cast	310
+35247769	Always and Forever, Lara Jean	Jenny Han	325
+24768	Pretties	Scott Westerfeld	370
+13414446	Prodigy	Marie Lu	371
+58446227	Sea of Tranquility	Emily St. John Mandel	259
+31138556	Homo Deus: A History of Tomorrow	Yuval Noah Harari	450
+33271162	Sidetracked	S.T. Abby	115
+37976541	Bad Blood: Secrets and Lies in a Silicon Valley Startup	John Carreyrou	339
+14995	Odd Thomas	Dean Koontz	446
+42815544	Bunny	Mona Awad	307
+4980	Breakfast of Champions	Kurt Vonnegut Jr.	303
+36430011	You	Caroline Kepnes	464
+10692	The Historian	Elizabeth Kostova	704
+17934530	Annihilation	Jeff VanderMeer	195
+6101718	The Magicians	Lev Grossman	402
+57701764	Wish You Were Here	Jodi Picoult	310
+7061	The No. 1 Ladies' Detective Agency	Alexander McCall Smith	235
+357664	Because of Winn-Dixie	Kate DiCamillo	182
+338691	Still Life	Louise Penny	293
+57815107	The War of Two Queens	Jennifer L. Armentrout	628
+76865	Good to Great: Why Some Companies Make the Leap... and Others Don't	Jim Collins	300
+4138	Naked	David Sedaris	304
+44074800	The Southern Book Club's Guide to Slaying Vampires	Grady Hendrix	410
+35542451	Girl Wash your Face	Rachel Hollis	240
+11260526	The Twilight Saga Breaking Dawn Part 1: The Official Illustrated Movie Companion	Mark Cotta Vaz	144
+41881472	The Psychology of Money	Morgan Housel	242
+107291	Needful Things	Stephen        King	790
+18812405	The Good Girl	Mary Kubica	352
+44654627	One of Us Is Next	Karen M. McManus	377
+54860443	One Last Stop	Casey McQuiston	418
+65137920	The Lost Bookshop	Evie  Woods	432
+5064	World Without End	Ken Follett	1237
+16071764	Lean In: Women, Work, and the Will to Lead	Sheryl Sandberg	217
+18775359	After I Do	Taylor Jenkins Reid	352
+68783	Girl, Interrupted	Susanna Kaysen	169
+41837243	Lock Every Door	Riley Sager	381
+7670	The Andromeda Strain	Michael Crichton	327
+7967	Speaker for the Dead	Orson Scott Card	382
+140077	Dead to the World	Charlaine Harris	291
+180357146	The Covenant of Water	Abraham   Verghese	715
+480204	The Phantom of the Opera	Gaston Leroux	360
+7824322	Between Shades of Gray	Ruta Sepetys	344
+50833559	Home Before Dark	Riley Sager	389
+10988	Drums of Autumn	Diana Gabaldon	880
+4268157	Perfect Chemistry	Simone Elkeles	368
+386372	Mort	Terry Pratchett	243
+13597723	The Naturals	Jennifer Lynn Barnes	308
+11559200	Shadow of Night	Deborah Harkness	584
+51966347	Ruthless Fae	Caroline Peckham	475
+58438583	One Italian Summer	Rebecca Serle	255
+10803121	The Alloy of Law	Brandon Sanderson	325
+49628	Cloud Atlas	David Mitchell	509
+1241	A Million Little Pieces	James Frey	515
+38980	The Princess Diaries	Meg Cabot	283
+1358844	Remember Me?	Sophie Kinsella	352
+110494	Living Dead in Dallas	Charlaine Harris	291
+40670312	The One	John Marrs	418
+248704	It's Kind of a Funny Story	Ned Vizzini	444
+10054335	Rules of Civility	Amor Towles	335
+55361205	A Promised Land	Barack Obama	768
+15753740	The Storyteller	Jodi Picoult	461
+5308	The Pearl	John Steinbeck	96
+27824826	The Dry	Jane Harper	336
+17340050	Losing Hope	Colleen Hoover	321
+52762903	The Book of Lost Names	Kristin Harmel	388
+50208350	The Happy Ever After Playlist	Abby Jimenez	401
+1736739	Olive Kitteridge	Elizabeth Strout	270
+179780	The Exorcist	William Peter Blatty	385
+15812814	Crossed	Ally Condie	367
+50520939	The Atlas Six	Olivie Blake	376
+19321	The Tale of Peter Rabbit	Beatrix Potter	72
+56554626	The Ex Hex	Erin Sterling	308
+56483061	Gild	Raven Kennedy	402
+22544764	Uprooted	Naomi Novik	438
+40275288	The Priory of the Orange Tree	Samantha Shannon	845
+30257963	12 Rules for Life: An Antidote to Chaos	Jordan B. Peterson	409
+7108725	Start with Why: How Great Leaders Inspire Everyone to Take Action	Simon Sinek	256
+41081373	Girl, Woman, Other	Bernardine Evaristo	453
+60114057	The American Roommate Experiment	Elena  Armas	400
+1326258	Chosen	P.C. Cast	307
+52652923	The Last Flight	Julie   Clark	320
+5168	Where the Heart Is	Billie Letts	376
+60931	Kindred	Octavia E. Butler	288
+43889	Wizard's First Rule	Terry Goodkind	836
+22609317	Luckiest Girl Alive	Jessica Knoll	338
+6534	Postmortem	Patricia Daniels Cornwell	342
+20342617	Just Mercy	Bryan Stevenson	336
+1268479	Warbreaker	Brandon Sanderson	688
+123257687	Assistant to the Villain	Hannah Nicole Maehrer	342
+9539	The Shadow Rising	Robert Jordan	1007
+13089710	The Kill Order	James Dashner	327
+12898	Death of a Salesman	Arthur Miller	144
+197084	Are You My Mother?	P.D. Eastman	64
+51738	Just Listen	Sarah Dessen	371
+29981261	The Butterfly Garden	Dot Hutchison	288
+56783258	Cloud Cuckoo Land	Anthony Doerr	626
+40914165	The Book Woman of Troublesome Creek	Kim Michele Richardson	309
+23164983	Hollow City	Ransom Riggs	412
+79885	The Lincoln Lawyer	Michael    Connelly	404
+60784636	All the Dangerous Things	Stacy Willingham	326
+14201	Jonathan Strange & Mr Norrell	Susanna Clarke	1006
+10920	Cold Mountain	Charles Frazier	449
+18126198	Four: A Divergent Story Collection	Veronica Roth	285
+6948436	Little Bee	Chris Cleave	271
+420282	The Polar Express	Chris Van Allsburg	32
+3478	Message in a Bottle	Nicholas Sparks	342
+29751398	The Power	Naomi Alderman	341
+52588078	28 Summers	Elin Hilderbrand	432
+8694	Life, the Universe and Everything	Douglas Adams	224
+18693771	The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma	Bessel van der Kolk	464
+9593911	Pandemonium	Lauren Oliver	375
+391729	The Tell-Tale Heart and Other Writings	Edgar Allan Poe	448
+110396	When He Was Wicked	Julia Quinn	368
+34728667	Children of Blood and Bone	Tomi Adeyemi	544
+140082	Club Dead	Charlaine Harris	274
+764347	Unwind	Neal Shusterman	337
+2866718	Untamed	P.C. Cast	338
+27523	Left Behind	Tim LaHaye	470
+7740152	Torment	Lauren Kate	452
+15195	The Complete Maus	Art Spiegelman	296
+7331435	A Visit from the Goon Squad	Jennifer Egan	274
+1067	1776	David McCullough	386
+13262783	Every Day	David Levithan	322
+233667	Firestarter	Stephen        King	564
+629	Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values	Robert M. Pirsig	540
+17214	Starship Troopers	Robert A. Heinlein	264
+45892228	Crave	Tracy Wolff	575
+25614492	Salt to the Sea	Ruta Sepetys	391
+49551172	The Reckoning	Caroline Peckham	561
+25494343	Lady Midnight	Cassandra Clare	688
+17235026	The Girl with All the Gifts	M.R. Carey	461
+43717362	When We Believed in Mermaids	Barbara O'Neal	348
+11573	The Dead Zone	Stephen        King	402
+59808050	Daisy Darker	Alice Feeney	352
+63697	The Man Who Mistook His Wife for a Hat and Other Clinical Tales	Oliver Sacks	243
+50196744	Know My Name	Chanel Miller	384
+15790842	Life After Life	Kate Atkinson	544
+34840184	The Perfect Couple	Elin Hilderbrand	480
+12033455	I've Got Your Number	Sophie Kinsella	448
+7937462	The Short Second Life of Bree Tanner	Stephenie Meyer	178
+58778536	Do Not Disturb	Freida McFadden	325
+18584855	Heartless	Marissa Meyer	453
+7069	The World According to Garp	John Irving	610
+26893819	The Girls	Emma Cline	355
+32796253	Final Girls	Riley Sager	352
+5113	Franny and Zooey	J.D. Salinger	201
+23212667	All the Missing Girls	Megan Miranda	396
+3407877	The Forgotten Garden	Kate Morton	648
+32145	Stiff: The Curious Lives of Human Cadavers	Mary Roach	304
+10567	Cell	Stephen        King	449
+15724396	The Sword of Summer	Rick Riordan	512
+13547180	Brain on Fire: My Month of Madness	Susannah Cahalan	250
+114683	Wall and Piece	Banksy	240
+61458888	You Shouldn't Have Come Here	Jeneva Rose	292
+44492286	Children of Dune	Frank Herbert	609
+33600	Shantaram	Gregory David Roberts	936
+58957615	The Bullet That Missed	Richard Osman	413
+40899464	The Things We Cannot Say	Kelly Rimmer	448
+1052	The Richest Man in Babylon	George S. Clason	194
+62628727	Romantic Comedy	Curtis Sittenfeld	309
+42155	Something Blue	Emily Giffin	338
+13152	The Angel Experiment	James  Patterson	445
+43448	Flowers in the Attic	V.C. Andrews	389
+88061	Dreams from My Father: A Story of Race and Inheritance	Barack Obama	453
+10032672	The Language of Flowers	Vanessa Diffenbaugh	323
+16056408	Easy	Tammara Webber	336
+204042	Naruto, Vol. 1: Uzumaki Naruto	Masashi Kishimoto	187
+14290364	Champion	Marie Lu	369
+2744	Anansi Boys	Neil Gaiman	387
+12497	No Country for Old Men	Cormac McCarthy	309
+57693416	The Golden Couple	Greer Hendricks	329
+62971668	Someone Else's Shoes	Jojo Moyes	438
+216363	The Man in the High Castle	Philip K. Dick	259
+231850	Corduroy	Don Freeman	32
+6289283	Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen	Christopher McDougall	287
+902	The Westing Game	Ellen Raskin	182
+24453082	Big Magic: Creative Living Beyond Fear	Elizabeth Gilbert	276
+43262893	The Wives	Tarryn Fisher	295
+18302455	The Circle	Dave Eggers	493
+62967891	Maybe Not	Colleen Hoover	160
+64216	Guards! Guards!	Terry Pratchett	376
+33643994	Daughter of the Pirate King	Tricia Levenseller	308
+51737	The Truth About Forever	Sarah Dessen	374
+21936809	The Kind Worth Killing	Peter  Swanson	320
+3682	A Great and Terrible Beauty	Libba Bray	403
+6101138	Wolf Hall	Hilary Mantel	653
+43575115	The Starless Sea	Erin Morgenstern	498
+52397	Parable of the Sower	Octavia E. Butler	345
+58885776	The Dead Romantics	Ashley Poston	368
+30268522	Why Not Me?	Mindy Kaling	240
+14758	In Her Shoes	Jennifer Weiner	537
+35791968	Still Me	Jojo Moyes	368
+50892287	In a Holidaze	Christina Lauren	307
+25300956	Royal Assassin	Robin Hobb	675
+170210	Dead as a Doornail	Charlaine Harris	295
+36307634	King of Scars	Leigh Bardugo	511
+9067850	The Throne of Fire	Rick Riordan	452
+25735012	Career of Evil	Robert Galbraith	512
+25489134	The Bear and the Nightingale	Katherine Arden	319
+20764879	A Gathering of Shadows	Victoria E. Schwab	512
+10967	The Fiery Cross	Diana Gabaldon	1443
+22674105	China Rich Girlfriend	Kevin Kwan	378
+58345	The Awakening	Kate Chopin	195
+40545956	Where the Forest Meets the Stars	Glendy Vanderah	332
+26252859	The Hidden Oracle	Rick Riordan	376
+6690798	The Passage	Justin Cronin	784
+80830635	Don't Let Her Stay	Nicola Sanders	288
+10847	Under the Banner of Heaven: A Story of Violent Faith	Jon Krakauer	400
+15731779	Entwined with You	Sylvia Day	356
+29581	Foundation and Empire	Isaac Asimov	256
+16102004	Beautiful Bastard	Christina Lauren	271
+36388243	Something in the Water	Catherine Steadman	342
+30289	The Republic	Plato	416
+43708884	The Boy, the Mole, the Fox and the Horse	Charlie Mackesy	128
+29059	Choke	Chuck Palahniuk	293
+6644117	The Iron King	Julie Kagawa	363
+475339	Madeline	Ludwig Bemelmans	44
+39927096	Less	Andrew Sean Greer	273
+3980	From the Mixed-Up Files of Mrs. Basil E. Frankweiler	E.L. Konigsburg	159
+33230889	The Good Daughter	Karin Slaughter	519
+139253	The House on Mango Street	Sandra Cisneros	110
+77390	Anne of Avonlea	L.M. Montgomery	276
+256008	Lonesome Dove	Larry McMurtry	960
+52636419	The Wife Upstairs	Freida McFadden	414
+39662	Different Seasons	Stephen        King	560
+30288282	The Immortalists	Chloe  Benjamin	346
+17716	Waiting for Godot	Samuel Beckett	109
+518848	Sabriel	Garth Nix	491
+1044355	When You Are Engulfed in Flames	David Sedaris	323
+33555224	Thunderhead	Neal Shusterman	504
+71811	Moon Called	Patricia Briggs	289
+17347389	The Dream Thieves	Maggie Stiefvater	439
+53137974	The Good Sister	Sally Hepworth	309
+188572	The Complete Sherlock Holmes	Arthur Conan Doyle	1796
+7669	Timeline	Michael Crichton	489
+16735	The Prince of Tides	Pat Conroy	679
+51964	Old Man's War	John Scalzi	318
+45885495	His & Hers	Alice Feeney	304
+13538873	Mr. Penumbra's 24-Hour Bookstore	Robin Sloan	288
+9938498	In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin	Erik Larson	448
+17231	Darkly Dreaming Dexter	Jeff Lindsay	288
+17571564	Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened	Allie Brosh	371
+76334	A New Earth: Awakening to Your Life's Purpose	Eckhart Tolle	316
+57926137	Black Cake	Charmaine Wilkerson	385
+57282383	A Shadow in the Ember	Jennifer L. Armentrout	647
+7770	One Fish, Two Fish, Red Fish, Blue Fish	Dr. Seuss	64
+34466963	Why We Sleep: Unlocking the Power of Sleep and Dreams	Matthew Walker	368
+32682	Patriot Games	Tom Clancy	794
+43814	The Vampire Lestat	Anne Rice	481
+15858248	Wallbanger	Alice Clayton	384
