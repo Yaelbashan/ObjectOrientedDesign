@@ -1,0 +1,18 @@
+Index: src/PopularityBasedRecommender.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.util.*;\r\n\r\nimport static java.util.stream.Collectors.*;\r\n\r\n/** Popularity‑based recommender implementation. */\r\nclass PopularityBasedRecommender<T extends Item> extends RecommenderSystem<T> {\r\n    private static final int POPULARITY_THRESHOLD = 100;\r\n    public PopularityBasedRecommender(Map<Integer, User> users,\r\n                                      Map<Integer, T> items,\r\n                                      List<Rating<T>> ratings) {\r\n        super(users, items, ratings);\r\n    }\r\n\r\n    @Override\r\n    public List<T> recommendTop10(int userId) {\r\n        // TODO: implement\r\n        Set<Integer> ratedItemIds = ratingsByUser.getOrDefault(userId, Collections.emptyList())\r\n                .stream()\r\n                .map(Rating::getItemId)\r\n                .collect(toSet());\r\n\r\n        return items.values().stream()\r\n                // 2. מסננים פריטים שהמשתמש כבר ראה\r\n                .filter(item -> !ratedItemIds.contains(item.getId()))\r\n                // 3. מסננים פריטים שאין להם מספיק דירוגים (לפחות 100)\r\n                .filter(item -> getItemRatingsCount(item.getId()) >= POPULARITY_THRESHOLD)\r\n                // 4. ממיינים לפי הציון הממוצע מהגבוה לנמוך\r\n                .sorted(Comparator.comparingDouble((T item) -> getItemAverageRating(item.getId()))\r\n                        .reversed()\r\n                        // במקרה של שוויון בציון, העדפה למי שיש לו יותר דירוגים\r\n                        .thenComparing(Comparator.comparingInt((T item) -> getItemRatingsCount(item.getId())).reversed())\r\n                        // שוויון נוסף? מיון לפי שם\r\n                        .thenComparing(Item::getName))\r\n                // 5. לוקחים את ה-10 הראשונים\r\n                .limit(NUM_OF_RECOMMENDATIONS)\r\n                .collect(toList());\r\n    }\r\n\r\n    public double getItemAverageRating(int itemId) {\r\n        // TODO: implement\r\n        List<Rating<T>> itemRatings = ratingsByItem.getOrDefault(itemId, Collections.emptyList());\r\n\r\n        return itemRatings.stream()\r\n                .mapToDouble(Rating::getRating)\r\n                .average()\r\n                .orElse(0.0);\r\n    }\r\n    public int getItemRatingsCount(int itemId) {\r\n        // TODO: implement\r\n        return ratingsByItem.getOrDefault(itemId, Collections.emptyList()).size();\r\n\r\n    }\r\n\r\n}\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/PopularityBasedRecommender.java b/src/PopularityBasedRecommender.java
+--- a/src/PopularityBasedRecommender.java	(revision 241564970f2b2d7fe4067717399ee246866325b1)
++++ b/src/PopularityBasedRecommender.java	(date 1778589260715)
+@@ -31,6 +31,7 @@
+                         .thenComparing(Comparator.comparingInt((T item) -> getItemRatingsCount(item.getId())).reversed())
+                         // שוויון נוסף? מיון לפי שם
+                         .thenComparing(Item::getName))
++                        .thenComparing(Item::getName))
+                 // 5. לוקחים את ה-10 הראשונים
+                 .limit(NUM_OF_RECOMMENDATIONS)
+                 .collect(toList());
