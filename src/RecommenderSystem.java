@@ -11,6 +11,9 @@ abstract class RecommenderSystem<T extends Item> {
     protected final Map<Integer, T> items;
     protected final List<Rating<T>> ratings;
     // TODO: add data structures to make the operation more efficient / simpler
+    protected final Map<Integer, List<Rating<T>>> ratingsByUser; /// for profile-based and user-similarity-based recommenders
+    protected final Map<Integer, List<Rating<T>>> ratingsByItem; /// for popularity-based recommender
+
     protected final int NUM_OF_RECOMMENDATIONS = 10;
 
     protected RecommenderSystem(Map<Integer, User> users,
@@ -20,6 +23,12 @@ abstract class RecommenderSystem<T extends Item> {
         this.items = items;
         this.ratings = ratings;
         // TODO: initialize additional data structures
+        this.ratingsByUser = ratings.stream()
+                .collect(groupingBy(Rating::getUserId));/// for profile-based and user-similarity-based recommenders
+
+        this.ratingsByItem = ratings.stream()
+                .collect(groupingBy(Rating::getItemId)); /// for popularity-based recommender
+
     }
 
     /** @return top‑10 recommended items for the given user, sorted best‑first. */
