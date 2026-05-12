@@ -17,23 +17,23 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
                                       List<Rating<T>> ratings) {
         super(users, items, ratings);
 
-        // שלב 1: חישוב הטיה גלובלית
+        // Step 1: Global bias calculation
         this.globalBias = ratings.stream()
                 .mapToDouble(Rating::getRating)
                 .average()
                 .orElse(0.0);
 
-        // שלב 2: חישוב הטיית פריט
+        // Step 2: Item bias calculation
         this.itemBiases = ratings.stream()
                 .collect(groupingBy(Rating::getItemId,
                         averagingDouble(r -> r.getRating() - globalBias)));
 
-        // שלב 3: חישוב הטיית משתמש
+        // Step 3: User bias calculation
         this.userBiases = ratings.stream()
                 .collect(groupingBy(Rating::getUserId,
                         averagingDouble(r -> r.getRating() - globalBias - itemBiases.getOrDefault(r.getItemId(), 0.0))));
 
-        // חישוב דירוגים נטולי הטיות לשימוש בחישוב דמיון
+        // Helper structure for bias-free ratings
         this.biasFreeRatingsByUser = ratings.stream()
                 .collect(groupingBy(Rating::getUserId,
                         toMap(Rating::getItemId,
@@ -41,11 +41,12 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
                                         - itemBiases.getOrDefault(r.getItemId(), 0.0)
                                         - userBiases.getOrDefault(r.getUserId(), 0.0))));
 
+        // Total rating count per item (used for tie-breaking)
         this.itemRatingsCount = ratings.stream()
                 .collect(groupingBy(Rating::getItemId, counting()));
     }
 
-    /** חישוב דמיון בין משתמשים - ללא @Override כי היא לא במחלקה האב */
+    /** Dot-product similarity; returns 0 if fewer than 10 items are shared. */
     public double getSimilarity(int u1, int u2) {
         Map<Integer, Double> ratings1 = biasFreeRatingsByUser.getOrDefault(u1, Map.of());
         Map<Integer, Double> ratings2 = biasFreeRatingsByUser.getOrDefault(u2, Map.of());
@@ -54,9 +55,7 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
                 .filter(ratings2::containsKey)
                 .collect(toSet());
 
-        if (sharedItems.size() < 10) { // דרישה ל-10 פריטים משותפים לפחות
-            return 0.0;
-        }
+        if (sharedItems.size() < 10) return 0.0;
 
         return sharedItems.stream()
                 .mapToDouble(itemId -> ratings1.get(itemId) * ratings2.get(itemId))
@@ -65,22 +64,22 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
 
     @Override
     public List<T> recommendTop10(int userId) {
-        // 1. מציאת ציוני דמיון
+        // Find similarity scores with all other users
         Map<Integer, Double> similarities = users.keySet().stream()
                 .filter(id -> id != userId)
                 .collect(toMap(Function.identity(), id -> getSimilarity(userId, id)));
 
-        // 2. בחירת 10 המשתמשים הכי דומים
+        // Select the top 10 most similar users with positive similarity
         List<Integer> top10SimilarUsers = similarities.entrySet().stream()
                 .filter(e -> e.getValue() > 0)
                 .sorted(Map.Entry.<Integer, Double>comparingByValue().reversed())
                 .limit(10)
                 .map(Map.Entry::getKey)
-                .toList();
+                .collect(toList());
 
         Set<Integer> userRatedItems = biasFreeRatingsByUser.getOrDefault(userId, Map.of()).keySet();
 
-        // 3. סינון פריטים שהמשתמש לא דירג ודורגו ע"י לפחות 5 דומים
+        // Identify items rated by at least 5 similar users that the target user hasn't rated
         List<Integer> candidateItemIds = top10SimilarUsers.stream()
                 .flatMap(simId -> biasFreeRatingsByUser.getOrDefault(simId, Map.of()).keySet().stream())
                 .filter(itemId -> !userRatedItems.contains(itemId))
@@ -88,9 +87,10 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
                 .entrySet().stream()
                 .filter(e -> e.getValue() >= 5)
                 .map(Map.Entry::getKey)
-                .toList();
+                .collect(toList());
 
-        // 4. חיזוי ומיון המלצות
+        // Predict ratings and
+sort the top 10 recommendations
         return candidateItemIds.stream()
                 .map(itemId -> Map.entry(items.get(itemId), predictRating(userId, itemId, top10SimilarUsers, similarities)))
                 .sorted(Map.Entry.<T, Double>comparingByValue().reversed()
@@ -98,9 +98,10 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
                         .thenComparing(e -> e.getKey().getName()))
                 .limit(NUM_OF_RECOMMENDATIONS)
                 .map(Map.Entry::getKey)
-                .toList();
+                .collect(toList());
     }
 
+    /** Predicts a rating using a weighted average of similar users' bias-free ratings. */
     private double predictRating(int userId, int itemId, List<Integer> similarUsers, Map<Integer, Double> similarities) {
         double weightedSum = similarUsers.stream()
                 .filter(simId -> biasFreeRatingsByUser.getOrDefault(simId, Map.of()).containsKey(itemId))
@@ -114,11 +115,10 @@ class SimilarityBasedRecommender<T extends Item> extends RecommenderSystem<T> {
 
         double predictedBiasFree = (simSum == 0) ? 0 : weightedSum / simSum;
 
-        // הוספת ההטיות חזרה לקבלת הציון הסופי
+        // Add biases back to get the final predicted rating
         return predictedBiasFree + globalBias + getItemBias(itemId) + getUserBias(userId);
     }
 
-    // שיטות ה-Getters ש-MainApp קורא להן
     public double getGlobalBias() { return globalBias; }
     public double getItemBias(int itemId) { return itemBiases.getOrDefault(itemId, 0.0); }
     public double getUserBias(int userId) { return userBiases.getOrDefault(userId, 0.0); }
